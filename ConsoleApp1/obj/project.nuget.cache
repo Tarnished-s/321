@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sOA1ylATKx3SYmnG0liIs8wYnAwqvdjovVAwusmgIxVAuZlmxRk7rUIAT1IkVOavnb4gnZGC1EAY6Lpbv6XbvA==",
+  "success": true,
+  "projectFilePath": "C:\\OSPanel\\domains\\C#\\lab6-part1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\СаковецьОлександрОле\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
